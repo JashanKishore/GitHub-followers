@@ -19,6 +19,7 @@
 		18AA10482BA066F7006DC865 /* GFTitleLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18AA10472BA066F7006DC865 /* GFTitleLabel.swift */; };
 		18AA104A2BA06878006DC865 /* GFBodyLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18AA10492BA06878006DC865 /* GFBodyLabel.swift */; };
 		18AA104C2BA06955006DC865 /* GFAlertVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18AA104B2BA06955006DC865 /* GFAlertVC.swift */; };
+		18AA10502BA06FD8006DC865 /* UIViewController+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18AA104F2BA06FD8006DC865 /* UIViewController+Ext.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		18AA10472BA066F7006DC865 /* GFTitleLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFTitleLabel.swift; sourceTree = "<group>"; };
 		18AA10492BA06878006DC865 /* GFBodyLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFBodyLabel.swift; sourceTree = "<group>"; };
 		18AA104B2BA06955006DC865 /* GFAlertVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFAlertVC.swift; sourceTree = "<group>"; };
+		18AA104F2BA06FD8006DC865 /* UIViewController+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+Ext.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				18AA10472BA066F7006DC865 /* GFTitleLabel.swift */,
 				18AA10492BA06878006DC865 /* GFBodyLabel.swift */,
 				18AA104B2BA06955006DC865 /* GFAlertVC.swift */,
+				18AA104F2BA06FD8006DC865 /* UIViewController+Ext.swift */,
 			);
 			path = "github-followers";
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 				18AA103E2BA017F5006DC865 /* SearchVC.swift in Sources */,
 				18AA10422BA01E76006DC865 /* GFButton.swift in Sources */,
 				18AA102A2BA0005B006DC865 /* AppDelegate.swift in Sources */,
+				18AA10502BA06FD8006DC865 /* UIViewController+Ext.swift in Sources */,
 				18AA10402BA0181E006DC865 /* FavouritesListVC.swift in Sources */,
 				18AA104C2BA06955006DC865 /* GFAlertVC.swift in Sources */,
 				18AA104A2BA06878006DC865 /* GFBodyLabel.swift in Sources */,
